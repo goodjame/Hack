@@ -1,0 +1,53 @@
+body{
+  background-image: url('file:///storage/emulated/0/MyFavorite/th-8.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h4{
+  color:red;
+  font-size: 13px;
+}
+
+h3{
+  color:red;
+  font-size: 13px;
+}
+
+button{
+  border:2px solid;
+  border-color: black;
+  width:150px;
+  height: 150px;
+  background-image: url('file:///storage/emulated/0/MyFavorite/th-9.jpeg');
+  background-size: 90px;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: black;
+  color:red;
+  
+}
+
+
+div{
+  border:2px solid;
+  border-color: black;
+  width:347px;
+  height: 150px;
+  background-image: url('file:///storage/emulated/0/MyFavorite/th-9.jpeg');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+
+.mm{
+  border:2px solid;
+  border-color: black;
+  width:347px;
+  height: 150px;
+  background-image: url('file:///storage/emulated/0/MyFavorite/th-9.jpeg');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+
